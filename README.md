@@ -1,5 +1,6 @@
 # Shared Secret
-### A Mobile app frontend for age/minisign key exchange
+### A Mobile app frontend for [Age](https://github.com/FiloSottile/age)/[Minisign](https://github.com/jedisct1/minisign) key exchange
+
 
 This project aims to create a mobile application to support the use of age and minisign for mobile devices and make key exchange easy for everyday usage.
 
